@@ -126,7 +126,7 @@ acá pedirá ejecutar un comando
 
 cat root/root.txt
 
-2f907ed450b361b2c2bf4e8795d5b561
+
 
 
 
